@@ -1,5 +1,4 @@
 # TrabajosProgramacionAplicada
-Hola mundo y hola profe
 
 ## Proyecto Reloj Inteligente
 
