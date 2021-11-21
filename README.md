@@ -35,8 +35,5 @@ El primero modelo o Beta del proyecto es con el modulo BME280, pero la idea del 
 ### Limitaciones del proyecto
 
 * Disponibilidad de materiales
-  * Conseguir un mosfet (IRF9540N), por lo cual en dado caso se podría reemplazado por un transistor BJT, pero sería reestructurando el circuito.
-* Grupo de trabajo
-  * Que los compañeros esten de acuerdo con el proyecto.
-  * Que el profesor acepte el proyecto.
-  * Que todos los integrantes participen y comprendan el proposito del proyecto.
+  * Conseguir un mosfet (IRF9540N), por lo cual en dado caso se podría reemplazar por un transistor BJT, pero sería reestructurando el circuito.
+
