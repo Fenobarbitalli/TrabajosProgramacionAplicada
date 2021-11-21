@@ -30,7 +30,7 @@ El proyecto presentado al profesor se hará con una Raspberry Pi programada y un
  
  ![Raspberry Pi 0w](https://ae01.alicdn.com/kf/H290ccd4d57ef41b6bc922f459af32bbdx/Original-Raspberry-Pi-Zero-W-Board-1GHz-CPU-512MB-RAM-with-Built-in-WI-FI-Bluetooth.jpg_Q90.jpg_.webp)
 
-El primero modelo o Beta del proyecto es con el modulo BME280, pero la idea del proyecto es poder implementarse en el registro de cualquier medida, muestreo o registro de alguna medición física.
+El primero modelo es con el modulo BME280, pero la idea del proyecto es poder implementarse en el registro de cualquier medida, muestreo o registro de alguna medición física.
 
 ### Limitaciones del proyecto
 
